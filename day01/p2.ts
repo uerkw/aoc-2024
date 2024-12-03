@@ -1,5 +1,5 @@
 // Start with reading the input file
-const input = Deno.readTextFileSync("./day1/input1.txt");
+const input = Deno.readTextFileSync("./day01/input1.txt");
 
 // Split the input into lines
 const lines = input.split("\n");

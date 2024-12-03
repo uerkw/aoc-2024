@@ -30,7 +30,7 @@ fn part2(input: &str) -> i32 {
 }
 
 fn main() {
-    let input_path = "../day3/input.txt";
+    let input_path = "../day03/input.txt";
     let input_contents = preprocess(input_path);
     let part1 = part1(&input_contents);
     let part2 = part2(&input_contents);

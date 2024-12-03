@@ -24,7 +24,7 @@ function part2(input: string) {
   return reduced;
 }
 
-const filePath = "./day3/input.txt";
+const filePath = "./day03/input.txt";
 const input = preprocess(filePath);
 console.log(`Part 1: ${part1(input)}`);
 console.log(`Part 2: ${part2(input)}`);
